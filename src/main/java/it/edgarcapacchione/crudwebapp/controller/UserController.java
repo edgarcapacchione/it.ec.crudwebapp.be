@@ -38,7 +38,7 @@ public class UserController {
     }
 
     /**
-     * <p>This will get the searched user's detail</p>
+     * <p>This method will get the searched user's detail</p>
      * @param id the id of searched user
      * @return the searched user's detail
      * @since 0.0.1
@@ -51,7 +51,7 @@ public class UserController {
     }
 
     /**
-     * <p>This will add a user</p>
+     * <p>This method will add a user</p>
      * @param u the user object who will be added (maybe)
      * @return the added user's detail
      * @since 0.0.1
@@ -62,7 +62,7 @@ public class UserController {
     }
 
     /**
-     * <p>This will update the user info</p>
+     * <p>This method will update the user info</p>
      * @param id of the user who will be updated
      * @return the updated user's detail
      * @since 0.0.1
@@ -81,7 +81,7 @@ public class UserController {
     }
 
     /**
-     * <p>This will delete the targeted user</p>
+     * <p>This method will delete the targeted user</p>
      * @param id the id of user who will be incriminated
      * @return the id of the incriminated user
      * @since 0.0.1
